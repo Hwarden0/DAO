@@ -1,6 +1,7 @@
 DAO Practice Project 
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVla29qeGVxazB6NzQxcnM0eHBkODh3YTdsbWhrMjZ6Y2h4MDliciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/62ham5Ff7myUes02f5/giphy.gif
+![gIf](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVla29qeGVxazB6NzQxcnM0eHBkODh3YTdsbWhrMjZ6Y2h4MDliciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/62ham5Ff7myUes02f5/giphy.gif
+)
 
 
 Welcome to my DAO playground! This is where I mess around with smart contracts, test decentralized governance concepts, and basically try not to break my code (too often). If you're here expecting the next big DAO revolution, you might want to lower those expectations. 
